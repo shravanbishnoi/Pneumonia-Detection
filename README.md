@@ -16,7 +16,7 @@ This project utilizes a Convolutional Neural Network (CNN) to detect pneumonia f
 ---
 
 ## Project Overview
-This project aims to develop a deep learning model capable of detecting pneumonia in chest X-ray images. The model was trained and evaluated on the [Chest X-Ray Images](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dataset, leveraging CNNs for feature extraction and classification.
+This project aims to develop a deep learning model capable of detecting pneumonia in chest X-ray images. The model was trained and evaluated on the [Chest X-Ray Images](https://www.kaggle.com/code/homayoonkhadivi/medical-diagnosis-with-cnn-transfer-learning/input) dataset, leveraging CNNs for feature extraction and classification.
 
 ## Dataset Description
 The dataset consists of chest X-ray images categorized into two classes:
