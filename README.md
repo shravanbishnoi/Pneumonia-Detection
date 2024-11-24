@@ -114,7 +114,7 @@ The confusion matrix is used to visualize the performance of the classification 
 
 ### ROC Curve:
 The ROC curve illustrates the model's ability to discriminate between classes.
-![ROC Curve](roc_curve.png)
+![ROC Curve](roc_repre.png)
 
 ## Visualization
 - **Loss Curve**: Displays the training loss over epochs.
