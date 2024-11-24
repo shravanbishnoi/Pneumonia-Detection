@@ -123,8 +123,3 @@ The ROC curve illustrates the model's ability to discriminate between classes.
 
 ## Conclusion
 This project demonstrates the potential of using Convolutional Neural Networks to detect pneumonia from chest X-ray images. With a test accuracy of 89.74% and an AUC of 0.925, the model shows promising results for real-world applications.
-
-Further improvements can include:
-- Using more advanced architectures like ResNet or DenseNet.
-- Fine-tuning on larger datasets.
-- Exploring transfer learning techniques.
